@@ -1,8 +1,20 @@
-# SBOL Visual Workshop
+# SBOL Visual Workshop – Useful links
 
+## SBOL and SBOL Visual standard
 
-## Useful links
+- [SBOL Standard Website](https://sbolstandard.org)
+- [SBOL Visual Website](https://sbolstandard.org/visual/)
+- [SBOL Visual 3.0 release (GitHub)](https://github.com/SynBioDex/SBOL-visual/releases/tag/3.0)
 
+## End-user tools
+- [SBOL Canvas](https://sbolcanvas.org)
+
+## Developer libraries
 - https://github.com/jamesscottbrown/react-parametric-svg
 - https://github.com/jamesscottbrown/psvg-cli
-- https://github.com/BiocomputeLab/paraSBOLv
+- [paraSBOLv](https://github.com/BiocomputeLab/paraSBOLv) -
+- [DNAplotlib](https://github.com/VoigtLab/dnaplotlib) - 
+- [VisBOL2](https://github.com/VisBOL/visbol2)
+
+
+
