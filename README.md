@@ -10,10 +10,10 @@
 - [SBOL Canvas](https://sbolcanvas.org)
 
 ## Developer libraries
-- https://github.com/jamesscottbrown/react-parametric-svg
-- https://github.com/jamesscottbrown/psvg-cli
-- [paraSBOLv](https://github.com/BiocomputeLab/paraSBOLv) -
-- [DNAplotlib](https://github.com/VoigtLab/dnaplotlib) - 
+- [React Parametric SVG component](https://github.com/jamesscottbrown/react-parametric-svg)
+- [Parametric SVG Command Line Interface (CLI)](https://github.com/jamesscottbrown/psvg-cli)
+- [paraSBOLv](https://github.com/BiocomputeLab/paraSBOLv)
+- [DNAplotlib](https://github.com/VoigtLab/dnaplotlib)
 - [VisBOL2](https://github.com/VisBOL/visbol2)
 
 
