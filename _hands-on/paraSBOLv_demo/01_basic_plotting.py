@@ -16,14 +16,14 @@ fig = plt.figure(figsize=(6,6))
 ax = fig.add_axes([0.0, 0.0, 1.0, 1.0], frameon=False, aspect=1)
 
 user_parameters = {}
-user_parameters['arrowbody_width'] = 50
+user_parameters['width'] = 50
 user_parameters['arrowhead_width'] = 10
 renderer.draw_glyph(ax, 'CDS', (10, 40), user_parameters=user_parameters)
 
 renderer.draw_glyph(ax, 'RibosomeEntrySite', (10, 60))
 
-user_parameters['arrowbody_width'] = 70
-user_parameters['arrowhead_height'] = 5
+user_parameters['width'] = 70
+user_parameters['arrowbody_height'] = 5
 user_parameters['arrowhead_width'] = 15
 cds_style = {}
 cds_style['cds'] = {'facecolor': (0,0,1), 'edgecolor': (1,1,0), 'linewidth': 10}
